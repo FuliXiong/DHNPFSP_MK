@@ -1,2 +1,2 @@
 # DHNPFSP_MK
-The data comprises instances and results for the Distributed Heterogenous Non-permutation Flowshop Scheduling Problem with Makespan Minimization (DHNPFSP_MK). 
+The dataset consists of problem instances and corresponding results for the Distributed Heterogeneous Non-Permutation Flowshop Scheduling Problem with the objective of makespan minimization (DHNPFSP_MK). 
